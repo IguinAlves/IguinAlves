@@ -1,6 +1,6 @@
 ## Hello Nerds 🤓
 
-Meu nome é Igor 
+Meu nome é **Igor** 
 
 -Estou estudando na Alura
 
